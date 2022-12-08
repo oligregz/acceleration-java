@@ -1,4 +1,4 @@
-package types;
+package primitiveTypes;
 
 public class CharType {
 

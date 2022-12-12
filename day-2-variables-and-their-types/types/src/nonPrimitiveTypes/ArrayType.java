@@ -17,6 +17,8 @@ public class ArrayType {
 
         System.out.println(arrayOfIntegers[8]);
         System.out.println(arrayOfIntegers[2]);
+//        System.out.println("accessing index 10 " + arrayOfIntegers[10]);
+
 	}
 
 }

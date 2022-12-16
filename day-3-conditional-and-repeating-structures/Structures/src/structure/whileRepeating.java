@@ -1,6 +1,6 @@
 package structure;
 
-public class repeating {
+public class whileRepeating {
 
 	public static void main(String[] args) {
 		String[] inscritos = { "MARCOS", "ALINE", "LUCAS", "PATRICIA", "JOAO", "FELIPE", "LUCIA", "ANTONIO", "FERNANDA",
